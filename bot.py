@@ -25,7 +25,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            name="Professor-Bot",
+            name="MoviiWrld-Bot",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
